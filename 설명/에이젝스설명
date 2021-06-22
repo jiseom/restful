@@ -1,0 +1,8 @@
+ajax+ json+ restful = 게시판
+
+/ex/board/ -> resource 요청
+URI 설계(-> 자원의 식별)
+
+주소설계
+
+@RequestBody 자바 객체를 제이슨으로 
